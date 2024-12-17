@@ -43,6 +43,11 @@ If you use this dataset, please cite the following relevant papers:
 4. Thabtah, F., Kamalov, F., Rajab, K. (2018). *A new computational intelligence approach to detect autistic features for autism screening*. International Journal of Medical Informatics, Volume 117, pp. 112-124.
 
 ---
+### Data Source:
+
+- Autism Screening for Toddlers:
+https://www.kaggle.com/datasets/fabdelja/autism-screening-for-toddlers
+---
 
 ## Project Objectives
 
